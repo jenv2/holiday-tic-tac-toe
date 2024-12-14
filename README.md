@@ -1,0 +1,1 @@
+This Python program allows two players to play against each other in a holiday themed tic-tac-toe game. This was a final project for a course titled Introduction to Problem Solving and Programming in Python.
